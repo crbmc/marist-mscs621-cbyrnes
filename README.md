@@ -20,21 +20,14 @@
     - Copy the `url` value.
 
 ## Configuring the application
-
 1. In your IBM Cloud console, open the Watson Assistant service instance
-
 2. Click the **Import workspace** icon in the Watson Assistant service tool. Specify the location of the workspace JSON file in your local copy of the app project:
 
     `<project_root>/training/car_workspace.json`
 
 3. Select **Everything (Intents, Entities, and Dialog)** and then click **Import**. The car dashboard workspace is created.
-
 4. Click the menu icon in the upper-right corner of the workspace tile, and then select **View details**.
-
 5. Click the ![Copy](readme_images/copy_icon.png) icon to copy the workspace ID to the clipboard.
-
-    ![Steps to get credentials](readme_images/assistant-simple.gif)
-
 6. In the application folder, copy the *.env.example* file and create a file called *.env*
 
     ```
