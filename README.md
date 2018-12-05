@@ -1,8 +1,12 @@
 <h1 align="center" style="border-bottom: none;">Watson Assistant Car Dashboard Demo Application</h1>
-+ Introduction to an application (what it does, how it helps, dependencies, and so on)
- + how to deploy your application
- + Architecture diagram (local cloud development, cloud deployment, communication)
- + API specification if your service is consumed by others
++ Introduction
+# What it does
+# How it helps
+# Dependencies
+
++ how to deploy your application
++ Architecture diagram (local cloud development, cloud deployment, communication)
++ API specification if your service is consumed by others
 
 <h3 align="center">This Node.js app demonstrates the Watson Assistant service in an interface simulating a cognitive car dashboard.</h3>
 
